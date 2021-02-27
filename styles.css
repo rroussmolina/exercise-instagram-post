@@ -1,0 +1,52 @@
+div.container{
+    width: 420px;
+    height: 550px;
+    margin: auto;
+    background: white;
+}
+.post{
+    background: white;
+}
+body{
+    font-size: 16px;
+    background: black;
+}
+div{
+    box-sizing: border-box;
+}
+
+div.body-icons{
+    font-size: 25px;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+}
+#html5{
+    font-size: 30px;
+}
+#more{
+    font-size: 30px;
+}
+.post-header{
+    padding: 5px;
+}
+.body-icons div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+.body-icons div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+}
+.post-body{
+    padding: 5px;
+}
